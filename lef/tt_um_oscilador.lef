@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_oscilador
+MACRO tt_um_relax
   CLASS BLOCK ;
-  FOREIGN tt_um_oscilador ;
+  FOREIGN tt_um_relax ;
   ORIGIN 0.000 0.000 ;
   SIZE 161.000 BY 225.760 ;
   PIN clk
@@ -1612,6 +1612,6 @@ MACRO tt_um_oscilador
         RECT 132.490 1.000 133.390 52.290 ;
         RECT 151.810 1.000 152.710 69.170 ;
   END
-END tt_um_oscilador
+END tt_um_relax
 END LIBRARY
 
