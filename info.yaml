@@ -56,12 +56,12 @@ pinout:
   # Analog pins - make sure to also set "analog_pins" above, else the pins won't be connected
   ua[0]: "CAPP"
   ua[1]: "CAPN"
-  ua[]: ""
-  ua[0]: ""
-  ua[0]: ""
-  ua[0]: ""
-  ua[0]: ""
-  ua[0]: ""
+  ua[2]: ""
+  ua[3]: ""
+  ua[4]: ""
+  ua[5]: ""
+  ua[6]: ""
+  ua[7]: ""
 
 # Do not change!
 yaml_version: 6
